@@ -1,0 +1,7 @@
+flutter_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/icons/tanked_icon_ios.png"
+  adaptive_icon_background: "#f7941d"
+  adaptive_icon_foreground: "assets/icons/tanked_icon.png"

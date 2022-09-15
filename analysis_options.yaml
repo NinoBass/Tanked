@@ -1,0 +1,16 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  # language:
+  #   strict-inference: true
+  exclude:
+    - "**/*.freezed.dart"
+    - "**/*.gr.dart"
+    - "**/*.g.dart"
+  errors:
+    missing_required_param: error
+    missing_return: error
+    must_be_immutable: error
+    always_use_package_imports: ignore
+
+

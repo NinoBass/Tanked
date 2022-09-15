@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "156930522962",
+    "firebase_url": "https://odunlade-final-year-project-default-rtdb.firebaseio.com",
+    "project_id": "odunlade-final-year-project",
+    "storage_bucket": "odunlade-final-year-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156930522962:android:be2a0854ecd5650bb1048b",
+        "android_client_info": {
+          "package_name": "com.example.tanked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156930522962-4uagm2ki20gqmh8l1446gnujdkktpjdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7RpJVkY93V1XMzo65pbVnVODhL6DLwfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156930522962-4uagm2ki20gqmh8l1446gnujdkktpjdk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156930522962-it9ie6go00slmugdolidl5rlbl8de753.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tanked"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156930522962:android:b9bf5469da171801b1048b",
+        "android_client_info": {
+          "package_name": "com.odunlade.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156930522962-4uagm2ki20gqmh8l1446gnujdkktpjdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7RpJVkY93V1XMzo65pbVnVODhL6DLwfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156930522962-4uagm2ki20gqmh8l1446gnujdkktpjdk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156930522962-it9ie6go00slmugdolidl5rlbl8de753.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tanked"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
